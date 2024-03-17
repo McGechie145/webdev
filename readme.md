@@ -1,4 +1,4 @@
-Kevin McGechie    52101316
+1Kevin McGechie    52101316
 
 Design report:
 
